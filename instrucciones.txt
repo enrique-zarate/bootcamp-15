@@ -1,0 +1,31 @@
+# Empezamos el juego
+
+Creo las siguientes variables:
+- palabra_a_encontrar
+- cantidad_de_letras
+- intentos
+- grilla
+
+
+# mientras tenga intentos
+
+    # reducimos la cantidad de intentos en 1
+
+    # pedimos al usuario una palabra_ingresada
+
+    # calculamos la cantidad de letras de la palabra_ingresada
+
+    # Verificar cantidad de letras en palabra_ingresada
+    # si la cantidad_de_letras_ingresadas es diferente a cantidad_de_letras:
+
+        # decimos al usuario que ingrese una palabra de cantidad_de_letras letras
+    
+    # en todo caso, 
+        
+        # llamamos a la funcion obtener_fila_verificada y guardamos su resultado en linea_verificada
+
+        # anhadimos linea verificada a nuestra grilla
+
+        # imprimimos grilla
+
+
